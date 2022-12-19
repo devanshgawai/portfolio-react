@@ -1,0 +1,18 @@
+.card{
+    background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.1));     
+    color:white;
+    /* max-height:30vh; */
+    min-width: 28vw;
+    padding: 0.5rem;
+    margin-top:1rem;
+    z-index:10;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px var(--clrYellow);
+}
+.card h3{
+    color:var(--clrYellow)
+}
+.card:hover{
+    transition: all 0.3s ease-in;
+    transform: scale(1.02);
+}

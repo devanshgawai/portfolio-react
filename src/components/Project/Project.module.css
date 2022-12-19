@@ -1,0 +1,17 @@
+.projects{
+    max-width:80vw;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.projects .heading{
+text-align: center;
+}
+.projects .content{
+padding: rem;
+}
+.cardContent{
+    padding:2rem;
+}
+.content h2{
+    color:var(--clrYellow);
+}

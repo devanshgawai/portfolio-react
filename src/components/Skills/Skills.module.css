@@ -1,0 +1,14 @@
+.skills{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    margin-top:2rem;
+    margin-bottom: 2rem;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    line-height: 0.5;
+    text-align: left;
+}

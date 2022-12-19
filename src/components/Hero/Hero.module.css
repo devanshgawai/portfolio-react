@@ -1,0 +1,21 @@
+.hero{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.heroContent{
+    line-height: 0.7;
+}
+.heroContent p{
+    font-size: small;
+}
+.hero img{
+    max-width: 20%;
+    object-fit: cover;
+    margin-left: 3rem;
+}
+.content{
+    max-width: 22rem;
+    line-height: 2;
+    text-align: left;
+}

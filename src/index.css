@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+:root{
+  --clrDarkBlack:black;
+  --clrLightBlack:#212529;
+  --clrYellow:#edc531;
+}
+body {
+  margin: 0;
+  font-family: 'Prompt',sans-serif;
+  color:white;
+}
+span{
+  color:var(--clrYellow);
+}
+h2{
+  margin:0;
+  padding:0;
+}
